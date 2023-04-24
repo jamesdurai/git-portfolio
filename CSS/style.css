@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.port-sec{
+    margin: 100px 100px;
+}
+
+.container{
+    width: 90%;
+    margin: auto;
+}
+
+.title-sec{
+    text-align: center;
+}
+
+.title-sec h1{
+    color: #6495ed;
+    padding-bottom: 15px;
+}
+
+nav{
+    padding: 20px;
+}
+
+nav a{
+    text-decoration: none;
+    border: 1px solid #0000000d;
+    padding: 0 10px 0 10px;
+}
+
+.about-row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.about-col{
+    width: 33.3%;
+    padding:12px;
+}
+
+img{
+    width: 100%;
+}
+
+
